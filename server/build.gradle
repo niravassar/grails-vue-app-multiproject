@@ -17,7 +17,6 @@ group "grails.vue.app.multiproject"
 
 apply plugin:"eclipse"
 apply plugin:"idea"
-apply plugin:"war"
 apply plugin:"org.grails.grails-web"
 apply plugin:"com.moowork.node"
 apply plugin:"org.grails.plugins.views-json"
